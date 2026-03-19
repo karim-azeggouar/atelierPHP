@@ -16,7 +16,7 @@
     <li>Ville : Casablanca</li>
 </ul>
 
-<a href="api/index.php">Retour à l'accueil</a>
+<a href="/index.php">Retour à l'accueil</a>
 
 </body>
 </html>

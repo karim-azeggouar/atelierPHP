@@ -13,7 +13,7 @@
 <?php
 echo "<h1>Hello from Vercel </h1>";
 ?>
-<a href="api/profil.php">Voir mon profil</a>
+<a href="/profil.php">Voir mon profil</a>
 
 </body>
 </html>
